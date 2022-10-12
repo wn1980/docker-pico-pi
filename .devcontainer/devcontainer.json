@@ -1,0 +1,12 @@
+{
+	"name": "docker-pico-pi-ubuntu",
+	"image": "wn1980/pico-pi-ubuntu",
+	"extensions": [
+		"ms-vscode.cmake-tools"
+	],
+	//"runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined", "--device=/dev/bus/usb", "--device=/dev/ttyACM0"],
+	//"forwardPorts": [35556],
+	"settings": {
+		//"latex-workshop.viewer.pdf.internal.port": 35556,
+	 }
+}
