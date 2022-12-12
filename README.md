@@ -1,1 +1,1 @@
-# docker-pico-pi
+# docker-rpi-pico
