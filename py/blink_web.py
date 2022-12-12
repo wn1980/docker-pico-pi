@@ -7,8 +7,8 @@ from machine import Pin
  
 intled = machine.Pin("LED", machine.Pin.OUT)
   
-ssid = 'ToonDuck_2.4G'
-password = 'up092723'
+ssid = 'xxx'
+password = 'xxx'
  
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
